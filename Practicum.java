@@ -1,1 +1,2 @@
-cfsDVfz
+public static void main(String[] args) {
+}
